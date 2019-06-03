@@ -2,8 +2,8 @@ def add(x,y):
 	pass
 def subtract(x,y):
 	pass
-def mul(a,b):
-	return a*b
+def mul(x,b):
+	return x*b
 def divison(x,y):
 	pass
 def square(x,y):
