@@ -8,5 +8,6 @@ def divison(x,y):
 	pass
 def square(x,y):
 	pass
-
+def mod(x,y):
+	pass
 
